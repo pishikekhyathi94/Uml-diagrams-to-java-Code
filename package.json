@@ -1,0 +1,13 @@
+{
+  "name": "activitylog-node",
+  "version": "1.0.0",
+  "description": "Node.js version of Activity Log",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
